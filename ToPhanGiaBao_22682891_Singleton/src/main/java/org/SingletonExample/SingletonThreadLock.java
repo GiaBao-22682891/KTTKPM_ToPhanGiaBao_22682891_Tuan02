@@ -1,4 +1,4 @@
-package org.example;
+package org.SingletonExample;
 
 public class SingletonThreadLock {
     private static volatile SingletonThreadLock instance;
